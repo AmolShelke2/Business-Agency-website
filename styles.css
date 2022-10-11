@@ -149,3 +149,29 @@ html {
   transform-origin: right;
 }
 /* End of Menu */
+
+/* Section 1 */
+.section-1 {
+  width: 100%;
+  height: 100vh;
+  background: url(images/dark-bg.jpeg) no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.banner {
+  width: 100%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.banner-heading {
+  margin-bottom: 4rem;
+  height: 20rem;
+  perspective: 50rem;
+  overflow: hidden;
+}
+/* End of Section 1 */
