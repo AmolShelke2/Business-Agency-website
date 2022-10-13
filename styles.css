@@ -515,6 +515,7 @@ html {
   text-transform: uppercase;
   color: #fff;
   text-shadow: 0.3rem 0.3rem 0.6rem rgba(0, 0, 0, 0.5);
+  cursor: pointer;
 }
 
 .btn-free {
